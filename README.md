@@ -52,3 +52,5 @@ CS1 Compilers – Stanford Lagunita, prof. Alex Aiken
 CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Malan
 
 CS50's Web Programming with Python and JavaScript, CS50 Beyond 2019 - Harvard, Brian Yu
+
+GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
