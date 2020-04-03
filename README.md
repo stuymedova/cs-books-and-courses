@@ -54,3 +54,24 @@ CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Mala
 CS50's Web Programming with Python and JavaScript, CS50 Beyond 2019 - Harvard, Brian Yu
 
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
+
+
+## + Kevin Lynch's 'Foundation' set (http://klynch.com/):
+
+As We May Think – Vannevar Bush
+
+Man-Computer Symbiosis & The Computer as a Communication Device – J.C.R. Licklider
+
+Spacewar – Stephen Russell, Peter Samson, Dan Edwards and Martin Graetz, together with Alan Kotok, Steve Piner, Robert A. Saunders
+
+Sketchpad: A Man-Machine Graphical Communication System – Ivan Sutherland
+
+The Xerox Star: A Retrospective – Jeff Johnson, Teresa L. Roberts & others
+
+Inventing the Lisa User Interface – Roderick Perkins, Dan Smith Keller, Frank Ludolph
+
+Insanely Great – Steven Levy
+
+Information Management: A Proposal – Tim Berners-Lee
+
+The Computer for the 21st Century – Mark Weiser
