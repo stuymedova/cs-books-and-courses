@@ -66,7 +66,11 @@ Spacewar – Stephen Russell, Peter Samson, Dan Edwards and Martin Graetz, toget
 
 Sketchpad: A Man-Machine Graphical Communication System – Ivan Sutherland
 
+The Mythical Man-Month – Fred Brooks
+
 The Xerox Star: A Retrospective – Jeff Johnson, Teresa L. Roberts & others
+
+The Soul of a New Machine – Tracy Kidder
 
 Inventing the Lisa User Interface – Roderick Perkins, Dan Smith Keller, Frank Ludolph
 
