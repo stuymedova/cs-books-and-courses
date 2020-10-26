@@ -56,13 +56,15 @@ CS50's Web Programming with Python and JavaScript, CS50 Beyond 2019 - Harvard, B
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
 
 
-## + Kevin Lynch's 'Foundation' set (http://klynch.com/):
+## + [Kevin Lynch's 'Foundation' set](http://klynch.com/):
 
 As We May Think – Vannevar Bush
 
 Man-Computer Symbiosis & The Computer as a Communication Device – J.C.R. Licklider
 
 Spacewar – Stephen Russell, Peter Samson, Dan Edwards and Martin Graetz, together with Alan Kotok, Steve Piner, Robert A. Saunders
+
+Augmenting Human Intellect: A Conceptual Framework – Douglas Engelbart
 
 Sketchpad: A Man-Machine Graphical Communication System – Ivan Sutherland
 
