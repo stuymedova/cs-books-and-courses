@@ -46,6 +46,8 @@ CS50 Lectures 2007, 2017, Understanding Technology, CS for Business Professional
 
 6.042J / 18.062J Mathematics for Computer Science - MIT OpenCourseWare, prof. Albert R. Meyer
 
+CS1 Compilers – Stanford Lagunita, prof. Alex Aiken
+
 CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Malan
 
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
