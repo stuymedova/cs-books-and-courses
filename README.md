@@ -44,11 +44,7 @@ Distributed Systems – Maarten van Steen, Andrew S. Tanenbaum
 
 CS50 Lectures 2007, 2017, Understanding Technology, CS for Business Professionals – Harvard, prof. David J. Malan
 
-CS106A Programming Methodology – Stanford, prof. Mehran Sahami
-
 6.042J / 18.062J Mathematics for Computer Science - MIT OpenCourseWare, prof. Albert R. Meyer
-
-CS1 Compilers – Stanford Lagunita, prof. Alex Aiken
 
 CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Malan
 
