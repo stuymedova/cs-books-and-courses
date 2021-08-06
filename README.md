@@ -1,5 +1,7 @@
 # CS Studies
+
 ## Books:
+
 ### Programming:
 How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi
 
@@ -39,6 +41,7 @@ Distributed Systems – Maarten van Steen, Andrew S. Tanenbaum
 
 
 ## Courses:
+
 CS50 Lectures 2007, 2017, Understanding Technology, CS for Business Professionals – Harvard, prof. David J. Malan
 
 CS106A Programming Methodology – Stanford, prof. Mehran Sahami
@@ -49,12 +52,10 @@ CS1 Compilers – Stanford Lagunita, prof. Alex Aiken
 
 CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Malan
 
-CS50's Web Programming with Python and JavaScript, CS50 Beyond 2019 - Harvard, Brian Yu
-
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
 
 
-## + [Kevin Lynch's "Foundation" set](http://klynch.com/):
+## + [Kevin Lynch's “Foundation” set](http://klynch.com/):
 
 As We May Think – Vannevar Bush
 
