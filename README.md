@@ -39,8 +39,6 @@ Distributed Systems – Maarten van Steen, Andrew S. Tanenbaum
 
 
 ## Courses:
-Computer Science – Khan Academy, Brilliant, CrashCourse, Techquickie & others
-
 CS50 Lectures 2007, 2017, Understanding Technology, CS for Business Professionals – Harvard, prof. David J. Malan
 
 CS106A Programming Methodology – Stanford, prof. Mehran Sahami
@@ -56,7 +54,7 @@ CS50's Web Programming with Python and JavaScript, CS50 Beyond 2019 - Harvard, B
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
 
 
-## + [Kevin Lynch's 'Foundation' set](http://klynch.com/):
+## + [Kevin Lynch's "Foundation" set](http://klynch.com/):
 
 As We May Think – Vannevar Bush
 
