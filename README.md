@@ -1,4 +1,4 @@
-# CS Studies
+# CS Resources
 
 ## Books:
 
