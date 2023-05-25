@@ -51,3 +51,7 @@ CS1 Compilers – Stanford Lagunita, prof. Alex Aiken
 CS75 Building Dynamic Websites – Harvard Extension School, prof. David J. Malan
 
 GSD-6338: Introduction to Computational Design - Harvard Graduate School of Design, prof. Jose Luis Garcia del Castillo
+
+---
+
+👉 [teachyourselfcs.com](https://teachyourselfcs.com)
